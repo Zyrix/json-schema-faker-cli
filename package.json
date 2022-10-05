@@ -23,7 +23,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "json-schema-faker": "https://github.com/json-schema-faker/json-schema-faker#47884ea8b4ea2a3da95ef213f8d220345f11ace3",
+    "json-schema-faker": "https://github.com/json-schema-faker/json-schema-faker#222fd3eb6ecac9ae27a8ebca9277b18c53bc8d0f",
     "jsonfile": "^6.1.0",
     "lodash": "^4.17.21"
   },
