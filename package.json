@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/oprogramador/json-schema-faker-cli.git"
+    "url": "git+https://github.com/Zyrix/json-schema-faker-cli.git"
   },
   "bin": {
     "generate-json": "./cmd.js"
